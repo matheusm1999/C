@@ -40,6 +40,5 @@ int e_primo(int numero){
 int main() {
   soma_intervalos(2,19);
   //e_primo(9);
-
   return 0;
 }
